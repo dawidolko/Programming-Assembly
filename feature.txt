@@ -1,1 +1,4 @@
 Linia 1
+Poprawka HotFix
+Linia 2.
+Linia 3.
