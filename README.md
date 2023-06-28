@@ -1,32 +1,30 @@
-# Programming-Asembly
+# Programming-Assembly
 
-## **Opis:**
-Programming-Assembly to repozytorium poświęcone programowaniu w języku Assembly. Znajdziesz tutaj przykładowe projekty, skrypty i materiały edukacyjne związane z tworzeniem programów niskiego poziomu przy użyciu języka Assembly.
+## **Description:**
+Programming-Assembly is a repository dedicated to programming in the Assembly language. Here you will find sample projects, scripts, and learning materials for low-level development using Assembly.
 
-## **Struktura Repozytorium:**
-/Projekty: Ten folder zawiera różne projekty, w których skupiamy się na programowaniu w języku Assembly. Każdy projekt posiada swój własny folder z opisem, kodem źródłowym i plikami projektowymi.
+## **Repository Structure:**
+/Projects: This folder contains various projects where we focus on Assembly programming. Each project has its own folder with description, source code and project files.
 
-/Skrypty: W tym folderze znajdują się gotowe skrypty w języku Assembly, które mogą być użyteczne w różnych projektach i zastosowaniach.
+/Scripts: This folder contains ready-made Assembly language scripts that can be useful in various projects and applications.
 
-/Materiały: Tutaj znajdziesz materiały edukacyjne, takie jak tutoriale, poradniki i artykuły, które pomogą Ci w nauce i zrozumieniu języka Assembly oraz programowania niskiego poziomu.
+/Materials: Here you will find educational materials such as tutorials, guides and articles to help you learn and understand Assembly and low-level programming.
 
-## **Jak zacząć:**
+## **How ​​to start:**
 
-Sklonuj repozytorium na swój lokalny komputer:
+Clone the repository to your local computer:
 ```
-git clone https://github.com/twojenazwauzytkownika/Programming-Assembly.git
+git clone https://github.com/yourusername/Programming-Assembly.git
 ```
 
-Przeglądaj dostępne projekty, skrypty i materiały w odpowiednich folderach.
+Browse available projects, scripts and materials in their respective folders.
 
-Wykorzystaj dostępne zasoby i narzędzia, aby tworzyć programy niskiego poziomu przy użyciu języka Assembly.
+Leverage available resources and tools to create low-level programs using Assembly.
 
-## **Wymagania systemowe**
-Aby rozpocząć programowanie w języku Assembly, będziesz potrzebować odpowiedniego narzędzia kompilacji, zazwyczaj dostarczanego przez producenta procesora. Upewnij się, że masz zainstalowane niezbędne oprogramowanie zgodnie z preferencjami i potrzebami projektu.
+## **System requirements**
+To start programming in Assembly, you'll need a proper build tool, usually provided by the CPU manufacturer. Make sure you have the necessary software installed according to your project preferences and needs.
 
-## **Wkład i Wsparcie**
-Jeśli chcesz przyczynić się do tego repozytorium, możesz zgłaszać problemy, tworzyć pull requesty lub udostępniać swoje własne projekty związane z programowaniem w języku Assembly. Wszelkie wkłady są mile widziane!
+## **Contributions and Support**
+If you want to contribute to this repository, you can report issues, create pull requests, or share your own Assembly development projects. Any contributions are welcome!
 
-Jeśli masz pytania lub potrzebujesz pomocy, skontaktuj się ze mną poprzez e-mail lub przez platformę GitHub.
-
-
+If you have any questions or need help, please contact me via email or GitHub.
