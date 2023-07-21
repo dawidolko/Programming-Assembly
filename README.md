@@ -6,9 +6,9 @@ Programming-Assembly is a repository dedicated to programming in the Assembly la
 ## **Repository Structure:**
 /Projects: This folder contains various projects where we focus on Assembly programming. Each project has its own folder with description, source code and project files.
 
-/Scripts: This folder contains ready-made Assembly language scripts that can be useful in various projects and applications.
+/Courses: This folder contains ready-made Assembly language scripts that can be useful in various projects and applications.
 
-/Materials: Here you will find educational materials such as tutorials, guides and articles to help you learn and understand Assembly and low-level programming.
+/Labs: Here you will find educational materials such as tutorials, guides and articles to help you learn and understand Assembly and low-level programming.
 
 ## **How ​​to start:**
 
