@@ -1,27 +1,27 @@
-# Kursy z języka Assembly
-Witaj w świecie kursów z języka Assembly! Ten obszar nauki skupia się na poznawaniu języka programowania niskopoziomowego, który umożliwia bezpośrednią komunikację z procesorem komputerowym. Kursy z Assembly pozwalają zgłębić tajniki programowania blisko sprzętu, zrozumieć działanie procesora, rejestrów i pamięci, oraz nauczyć się optymalizować działanie programów.
+# Assembly language courses
+Welcome to the world of Assembly language courses! This area of study focuses on learning a low-level programming language that allows direct communication with a computer processor. Assembly courses allow you to explore the secrets of programming close to the hardware, understand how the processor, registers and memory work, and learn to optimize the operation of programs.
 
-## Dlaczego warto uczestniczyć w kursach z języka Assembly?
-Blisko sprzętu: Kursy z Assembly pozwalają na zgłębienie wiedzy na temat działania sprzętu komputerowego na bardzo niskim poziomie, co jest niezwykle wartościową umiejętnością dla programistów i inżynierów.
+## Why take Assembly courses?
+Close to the hardware: Assembly courses allow you to deepen your knowledge of how computer hardware works at a very low level, which is an extremely valuable skill for programmers and engineers.
 
-Zrozumienie mechanizmów działania: Poznanie języka Assembly pomaga zrozumieć mechanizmy działania komputera, wykonywanie operacji na poziomie bitów i rejestrów, oraz analizę kodu maszynowego.
+Understanding the mechanisms of operation: Learning the Assembly language helps you understand the mechanisms of computer operation, performing operations at the level of bits and registers, and analyzing machine code.
 
-Optymalizacja i wydajność: Kursy z Assembly uczą, jak optymalizować działanie programów i tworzyć wydajne rozwiązania, co jest szczególnie istotne w zasobochłonnych aplikacjach.
+Optimization and Performance: Assembly courses teach you how to optimize program performance and create efficient solutions, which is especially important in resource-intensive applications.
 
-Programowanie wbudowanych systemów: Znajomość Assembly jest niezbędna przy tworzeniu oprogramowania dla mikrokontrolerów i wbudowanych systemów, które są wykorzystywane w elektronice, robotyce i innych dziedzinach.
+Embedded Systems Programming: Knowledge of Assembly is essential when developing software for microcontrollers and embedded systems that are used in electronics, robotics, and other fields.
 
-## Przykładowe tematy kursów:
-Podstawy języka Assembly: Poznanie składni, instrukcji i podstawowych koncepcji języka Assembly.
+## Sample course topics:
+Assembly Language Basics: Learn the syntax, statements, and basic concepts of the Assembly language.
 
-Programowanie w Assembly na różnych platformach: Praktyczne zajęcia na różnych platformach i architekturach, takich jak x86, ARM czy MIPS.
+Cross-Platform Assembly Programming: Hands-on training on various platforms and architectures such as x86, ARM, and MIPS.
 
-Optymalizacja kodu Assembly: Nauka optymalizacji kodu Assembly w celu uzyskania lepszej wydajności.
+Assembly Code Optimization: Learn how to optimize your Assembly code for better performance.
 
-Programowanie mikrokontrolerów: Kursy skupione na programowaniu mikrokontrolerów i tworzeniu wbudowanych systemów.
+Microcontroller Programming: Courses focused on microcontroller programming and building embedded systems.
 
-Rozwiązywanie problemów niskopoziomowych: Kursy, które skupiają się na rozwiązywaniu problemów niskopoziomowych, takich jak sortowanie, kompresja danych, itp.
+Low-Level Problem Solving: Courses that focus on solving low-level problems such as sorting, data compression, etc.
 
-## Dla kogo są kursy z języka Assembly?
-Kursy z języka Assembly są odpowiednie dla osób zainteresowanych programowaniem niskopoziomowym, optymalizacją kodu, zrozumieniem mechanizmów działania komputera oraz tworzeniem efektywnych rozwiązań. Wiedza z zakresu Assembly jest cenna dla programistów, inżynierów, elektroników oraz wszystkich, którzy pragną zgłębić tajniki działania komputera na najniższym poziomie.
+## Who are Assembly language courses for?
+Assembly language courses are suitable for people interested in low-level programming, code optimization, understanding how computers work, and creating effective solutions. Knowledge in the field of Assembly is valuable for programmers, engineers, electronics specialists and everyone who wants to explore the secrets of how a computer works at the lowest level.
 
-Zapraszamy do uczestnictwa w kursach z języka Assembly i zdobycia wiedzy, która pozwoli Ci na zanurzenie się w fascynującym świecie programowania blisko sprzętu komputerowego. Niech te kursy stanowią inspirację do odkrywania tajemnic języka Assembly i wykorzystania go do tworzenia wydajnych i optymalizowanych rozwiązań.
+We invite you to participate in Assembly language courses and gain knowledge that will allow you to immerse yourself in the fascinating world of programming close to computer hardware. Let these courses inspire you to discover the secrets of the Assembly language and use it to create efficient and optimized solutions.
