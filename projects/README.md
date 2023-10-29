@@ -1,24 +1,24 @@
-# Projekty w języku Assembly
-Witaj w świecie projektów w języku Assembly! Ten obszar programowania skupia się na programowaniu niskopoziomowym, gdzie instrukcje są bezpośrednio wykonywane przez procesor. Język Assembly zapewnia pełną kontrolę nad sprzętem komputerowym, co pozwala na optymalizację działania programów i tworzenie rozwiązań wrażliwych na czas działania.
+# Assembly language projects
+Welcome to the world of Assembly projects! This area of programming focuses on low-level programming, where instructions are directly executed by the processor. The Assembly language provides full control over computer hardware, allowing you to optimize program performance and create runtime-sensitive solutions.
 
-## Dlaczego warto uczestniczyć w projektach w języku Assembly?
-Pełna kontrola nad sprzętem: Programowanie w języku Assembly daje pełną kontrolę nad sprzętem komputerowym, co pozwala na zoptymalizowanie działania programów, szczególnie w zasobochłonnych aplikacjach.
+## Why participate in Assembly projects?
+Full control over the hardware: Programming in the Assembly language gives you full control over the computer hardware, which allows you to optimize the operation of programs, especially in resource-intensive applications.
 
-Niskopoziomowy charakter: Język Assembly jest niskopoziomowy, co oznacza, że programista ma bezpośredni dostęp do rejestrów procesora, pamięci i innych zasobów, co pozwala na precyzyjne zarządzanie danymi i operacjami.
+Low-level nature: The Assembly language is low-level, which means that the programmer has direct access to CPU registers, memory, and other resources, allowing for precise management of data and operations.
 
-Blisko sprzętu: Programowanie w języku Assembly pozwala zrozumieć działanie sprzętu komputerowego na bardzo niskim poziomie, co jest niezwykle wartościową wiedzą dla programistów i inżynierów.
+Close to the hardware: Programming in the Assembly language allows you to understand how computer hardware works at a very low level, which is extremely valuable knowledge for programmers and engineers.
 
-Optymalizacja i efektywność: Dzięki pełnej kontroli nad sprzętem, projekty w języku Assembly pozwalają na tworzenie wydajnych i optymalizowanych rozwiązań, szczególnie w obszarach, gdzie czas działania ma kluczowe znaczenie.
+Optimization and efficiency: With full control over the hardware, Assembly language projects allow you to create efficient and optimized solutions, especially in areas where uptime is crucial.
 
-## Przykładowe projekty:
-Obsługa sprzętu: Tworzenie sterowników i bibliotek do obsługi różnych urządzeń i komponentów sprzętowych, takich jak karty graficzne, dźwiękowe, kontrolery, itp.
+## Sample projects:
+Hardware support: Creating drivers and libraries to support various devices and hardware components such as graphics cards, sound cards, controllers, etc.
 
-Programowanie mikrokontrolerów: Projektowanie oprogramowania dla mikrokontrolerów, które wykorzystywane są w wbudowanych systemach, robotach i innych urządzeniach.
+Microcontroller programming: Designing software for microcontrollers that are used in embedded systems, robots and other devices.
 
-Algorytmy optymalizacyjne: Implementacja algorytmów optymalizacyjnych, które są wykorzystywane w różnych dziedzinach, takich jak sieci neuronowe, przetwarzanie obrazów i dźwięku.
+Optimization Algorithms: Implementation of optimization algorithms that are used in various fields such as neural networks, image and sound processing.
 
-Programowanie systemowe: Tworzenie programów systemowych, które wykorzystywane są do zarządzania zasobami komputera, takimi jak zarządzanie pamięcią, planowanie procesów, itp.
+System programming: Creating system programs that are used to manage computer resources, such as memory management, process scheduling, etc.
 
-Rozwiązywanie problemów niskopoziomowych: Implementacja różnych algorytmów i rozwiązań w języku Assembly do rozwiązywania problemów niskopoziomowych, takich jak optymalizacja sortowania, kompresja danych, itp.
+Low-Level Problem Solving: Implement various algorithms and solutions in Assembly to solve low-level problems such as sorting optimization, data compression, etc.
 
-Zapraszamy do uczestniczenia w projektach w języku Assembly i doświadczania pełnej kontroli nad sprzętem komputerowym. Niech te projekty stanowią inspirację do tworzenia optymalizowanych i wydajnych rozwiązań, które wykorzystują potencjał języka Assembly dla rozmaitych zastosowań.
+We invite you to participate in Assembly language projects and experience full control over your computer hardware. Let these projects inspire you to create optimized and efficient solutions that leverage the power of the Assembly language for a variety of applications.
