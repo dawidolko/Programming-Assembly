@@ -18,7 +18,7 @@ redirect_to: s.dawidolko.pl
 - ...
 
 ### Projekty:
-**[Co to projekty?](projects/README.md) - Definicja i zagadnienia**
+**[Co to projekty?](projects/README.test-3d.md) - Definicja i zagadnienia**
  - [Repozytorium](https://github.com/dawidolko/Programming-Assembly/tree/master/projects)
 
 
