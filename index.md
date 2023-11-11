@@ -24,7 +24,7 @@ redirect_to: s.dawidolko.pl
 
 ### Kursy:
 
-**[Co to kursy?](Courses/assets/README.test-3d.md) - Definicja i zagadnienia**
+**[Co to kursy?](Courses/README.md) - Definicja i zagadnienia**
 - **[Kurs 1](https://github.com/dawidolko/Programming-Python/tree/main/Courses/Course1)**
   - [Opis kursu](Courses/Course1/README.md)
 
