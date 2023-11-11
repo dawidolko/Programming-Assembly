@@ -10,7 +10,7 @@ Optimization and Performance: Assembly courses teach you how to optimize program
 
 Embedded Systems Programming: Knowledge of Assembly is essential when developing software for microcontrollers and embedded systems that are used in electronics, robotics, and other fields.
 
-## Sample course topics:
+## Sample course topics :
 Assembly Language Basics: Learn the syntax, statements, and basic concepts of the Assembly language.
 
 Cross-Platform Assembly Programming: Hands-on training on various platforms and architectures such as x86, ARM, and MIPS.
